@@ -1,0 +1,15 @@
+.sag
+{
+    display: flex;
+  position: absolute;
+  right: 25px;
+}
+
+.icerikorta{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 3%;
+      
+}
